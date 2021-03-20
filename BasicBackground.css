@@ -259,6 +259,7 @@ body::before {
 /* ~~~~		3.		TITLEBAR						~~~~ */
 
 .titleBar-AC4pGV {
+	content: "Yeet";
 	z-index: 5001;
 }
 .titleBar-AC4pGV::after {
